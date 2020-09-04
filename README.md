@@ -7,4 +7,4 @@ This paper includes EMD data preprocessing technology, deep learning LSTM time s
 **The article using the above method is as follows**：
 [LSTM-based deep learning framework: short-term wind speed series prediction](https://aiyi1208.github.io/2020/09/03/Hexo-Theme-Snail/)
 
-[**Author blog**](https://https://aiyi1208.github.io/)
+[**Author blog**](https://aiyi1208.github.io/)
